@@ -1,2 +1,4 @@
 console.log('This would be the main JS file.');
-alert("HELLO WORLD");
+function myFunction() {
+    alert("I am an alert box!");
+}
